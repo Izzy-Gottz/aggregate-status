@@ -6,6 +6,8 @@ sites:
     url: https://aggregate.finance
   - name: App
     url: https://app.aggregate.finance/healthz
+  - name: Docs
+    url: https://docs.aggregate.finance
   - name: MCP server
     url: https://app.aggregate.finance/mcp
     expectedStatusCodes:
